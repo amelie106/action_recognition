@@ -1,5 +1,6 @@
 # action_recognition
-AI Project on unusual action recognition on CLIP vs. SOTA
+AI Project on unusual action recognition on CLIP vs. SOTA.
+
 Data not available due to confidentiality (videos of real people)
 
 # Run order
